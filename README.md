@@ -1,6 +1,8 @@
 
 # Terraform GCP Website Deployment
 
+<img width="761" height="97" alt="Image" src="https://github.com/user-attachments/assets/8d605afa-8f91-4eb0-ad07-152b4122f76f" />
+---
 This project uses **Terraform** to deploy a static website on **Google Cloud Platform (GCP)** with the following features:
 
 - Google Cloud Storage bucket for static website hosting
